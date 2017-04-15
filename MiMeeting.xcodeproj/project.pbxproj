@@ -7,6 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6808181F1C427688009BB160 /* pa.png in Resources */ = {isa = PBXBuildFile; fileRef = 6808181E1C427687009BB160 /* pa.png */; };
+		680818231C428123009BB160 /* LOGO.png in Resources */ = {isa = PBXBuildFile; fileRef = 680818221C428123009BB160 /* LOGO.png */; };
+		680818251C4282CE009BB160 /* LOGO 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 680818241C4282CE009BB160 /* LOGO 2.png */; };
+		68573D191C3658DF00EE91BD /* DateUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 68573D111C3658DF00EE91BD /* DateUtil.m */; };
+		68573D1A1C3658DF00EE91BD /* DMLazyScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 68573D131C3658DF00EE91BD /* DMLazyScrollView.m */; };
+		68573D1B1C3658DF00EE91BD /* SACalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 68573D151C3658DF00EE91BD /* SACalendar.m */; };
+		68573D1C1C3658DF00EE91BD /* SACalendarCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 68573D171C3658DF00EE91BD /* SACalendarCell.m */; };
+		68573D1F1C36735C00EE91BD /* bluewalley.png in Resources */ = {isa = PBXBuildFile; fileRef = 68573D1D1C36735C00EE91BD /* bluewalley.png */; };
+		68573D201C36735C00EE91BD /* sky.png in Resources */ = {isa = PBXBuildFile; fileRef = 68573D1E1C36735C00EE91BD /* sky.png */; };
+		6890408F1C36AF3D00C9947A /* Participent_AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6890408E1C36AF3D00C9947A /* Participent_AViewController.m */; };
+		68D3C5D11C3F4CC4009D40DB /* NSDate+convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D3C5C81C3F4CC3009D40DB /* NSDate+convenience.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		68D3C5D21C3F4CC4009D40DB /* NSMutableArray+convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D3C5CA1C3F4CC3009D40DB /* NSMutableArray+convenience.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		68D3C5D31C3F4CC4009D40DB /* UIColor+expanded.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D3C5CC1C3F4CC3009D40DB /* UIColor+expanded.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		68D3C5D41C3F4CC4009D40DB /* UIView+convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D3C5CE1C3F4CC4009D40DB /* UIView+convenience.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		68D3C5D51C3F4CC4009D40DB /* VRGCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D3C5D01C3F4CC4009D40DB /* VRGCalendarView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		68D528DB1C37591700A9C794 /* WTagList.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D528DA1C37591700A9C794 /* WTagList.m */; };
+		68D528DF1C37675F00A9C794 /* doc.png in Resources */ = {isa = PBXBuildFile; fileRef = 68D528DC1C37675F00A9C794 /* doc.png */; };
+		68D528E01C37675F00A9C794 /* pdf.png in Resources */ = {isa = PBXBuildFile; fileRef = 68D528DD1C37675F00A9C794 /* pdf.png */; };
+		68D528E11C37675F00A9C794 /* xsl.png in Resources */ = {isa = PBXBuildFile; fileRef = 68D528DE1C37675F00A9C794 /* xsl.png */; };
+		68D528E51C3815B800A9C794 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 68D528E41C3815B800A9C794 /* add.png */; };
+		68D528E81C38B93800A9C794 /* ShowDetail_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D528E71C38B93800A9C794 /* ShowDetail_ViewController.m */; };
 		68EE7D6E1C34DB9F0006A239 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EE7D6D1C34DB9F0006A239 /* main.m */; };
 		68EE7D711C34DB9F0006A239 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EE7D701C34DB9F0006A239 /* AppDelegate.m */; };
 		68EE7D741C34DB9F0006A239 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EE7D731C34DB9F0006A239 /* ViewController.m */; };
@@ -15,6 +36,7 @@
 		68EE7D7C1C34DB9F0006A239 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68EE7D7A1C34DB9F0006A239 /* LaunchScreen.storyboard */; };
 		68EE7D871C34DB9F0006A239 /* MiMeetingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EE7D861C34DB9F0006A239 /* MiMeetingTests.m */; };
 		68EE7D921C34DB9F0006A239 /* MiMeetingUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EE7D911C34DB9F0006A239 /* MiMeetingUITests.m */; };
+		68EE7DA21C3500DB0006A239 /* Hy_HomeScreen_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EE7DA11C3500DB0006A239 /* Hy_HomeScreen_ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +57,40 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6808181E1C427687009BB160 /* pa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pa.png; sourceTree = SOURCE_ROOT; };
+		680818221C428123009BB160 /* LOGO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO.png; sourceTree = "<group>"; };
+		680818241C4282CE009BB160 /* LOGO 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO 2.png"; sourceTree = "<group>"; };
+		68573D101C3658DF00EE91BD /* DateUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DateUtil.h; path = SACalendar/DateUtil.h; sourceTree = "<group>"; };
+		68573D111C3658DF00EE91BD /* DateUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DateUtil.m; path = SACalendar/DateUtil.m; sourceTree = "<group>"; };
+		68573D121C3658DF00EE91BD /* DMLazyScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DMLazyScrollView.h; path = SACalendar/DMLazyScrollView.h; sourceTree = "<group>"; };
+		68573D131C3658DF00EE91BD /* DMLazyScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DMLazyScrollView.m; path = SACalendar/DMLazyScrollView.m; sourceTree = "<group>"; };
+		68573D141C3658DF00EE91BD /* SACalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SACalendar.h; path = SACalendar/SACalendar.h; sourceTree = "<group>"; };
+		68573D151C3658DF00EE91BD /* SACalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SACalendar.m; path = SACalendar/SACalendar.m; sourceTree = "<group>"; };
+		68573D161C3658DF00EE91BD /* SACalendarCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SACalendarCell.h; path = SACalendar/SACalendarCell.h; sourceTree = "<group>"; };
+		68573D171C3658DF00EE91BD /* SACalendarCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SACalendarCell.m; path = SACalendar/SACalendarCell.m; sourceTree = "<group>"; };
+		68573D181C3658DF00EE91BD /* SACalendarConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SACalendarConstants.h; path = SACalendar/SACalendarConstants.h; sourceTree = "<group>"; };
+		68573D1D1C36735C00EE91BD /* bluewalley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bluewalley.png; sourceTree = SOURCE_ROOT; };
+		68573D1E1C36735C00EE91BD /* sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky.png; sourceTree = SOURCE_ROOT; };
+		6890408D1C36AF3D00C9947A /* Participent_AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Participent_AViewController.h; sourceTree = "<group>"; };
+		6890408E1C36AF3D00C9947A /* Participent_AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Participent_AViewController.m; sourceTree = "<group>"; };
+		68D3C5C71C3F4CC3009D40DB /* NSDate+convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+convenience.h"; path = "SACalendar/NSDate+convenience.h"; sourceTree = "<group>"; };
+		68D3C5C81C3F4CC3009D40DB /* NSDate+convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+convenience.m"; path = "SACalendar/NSDate+convenience.m"; sourceTree = "<group>"; };
+		68D3C5C91C3F4CC3009D40DB /* NSMutableArray+convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSMutableArray+convenience.h"; path = "SACalendar/NSMutableArray+convenience.h"; sourceTree = "<group>"; };
+		68D3C5CA1C3F4CC3009D40DB /* NSMutableArray+convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableArray+convenience.m"; path = "SACalendar/NSMutableArray+convenience.m"; sourceTree = "<group>"; };
+		68D3C5CB1C3F4CC3009D40DB /* UIColor+expanded.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+expanded.h"; path = "SACalendar/UIColor+expanded.h"; sourceTree = "<group>"; };
+		68D3C5CC1C3F4CC3009D40DB /* UIColor+expanded.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+expanded.m"; path = "SACalendar/UIColor+expanded.m"; sourceTree = "<group>"; };
+		68D3C5CD1C3F4CC3009D40DB /* UIView+convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+convenience.h"; path = "SACalendar/UIView+convenience.h"; sourceTree = "<group>"; };
+		68D3C5CE1C3F4CC4009D40DB /* UIView+convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+convenience.m"; path = "SACalendar/UIView+convenience.m"; sourceTree = "<group>"; };
+		68D3C5CF1C3F4CC4009D40DB /* VRGCalendarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VRGCalendarView.h; path = SACalendar/VRGCalendarView.h; sourceTree = "<group>"; };
+		68D3C5D01C3F4CC4009D40DB /* VRGCalendarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VRGCalendarView.m; path = SACalendar/VRGCalendarView.m; sourceTree = "<group>"; };
+		68D528D91C37591700A9C794 /* WTagList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WTagList.h; path = SACalendar/WTagList.h; sourceTree = "<group>"; };
+		68D528DA1C37591700A9C794 /* WTagList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WTagList.m; path = SACalendar/WTagList.m; sourceTree = "<group>"; };
+		68D528DC1C37675F00A9C794 /* doc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doc.png; sourceTree = SOURCE_ROOT; };
+		68D528DD1C37675F00A9C794 /* pdf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pdf.png; sourceTree = SOURCE_ROOT; };
+		68D528DE1C37675F00A9C794 /* xsl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xsl.png; sourceTree = SOURCE_ROOT; };
+		68D528E41C3815B800A9C794 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = SOURCE_ROOT; };
+		68D528E61C38B93800A9C794 /* ShowDetail_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowDetail_ViewController.h; sourceTree = "<group>"; };
+		68D528E71C38B93800A9C794 /* ShowDetail_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShowDetail_ViewController.m; sourceTree = "<group>"; };
 		68EE7D691C34DB9F0006A239 /* MiMeeting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiMeeting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68EE7D6D1C34DB9F0006A239 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		68EE7D6F1C34DB9F0006A239 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +107,8 @@
 		68EE7D8D1C34DB9F0006A239 /* MiMeetingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiMeetingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68EE7D911C34DB9F0006A239 /* MiMeetingUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MiMeetingUITests.m; sourceTree = "<group>"; };
 		68EE7D931C34DB9F0006A239 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68EE7DA01C3500DB0006A239 /* Hy_HomeScreen_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hy_HomeScreen_ViewController.h; sourceTree = "<group>"; };
+		68EE7DA11C3500DB0006A239 /* Hy_HomeScreen_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hy_HomeScreen_ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,9 +136,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		68D3C5C61C3F4CA2009D40DB /* NewCalender */ = {
+			isa = PBXGroup;
+			children = (
+				68D3C5C71C3F4CC3009D40DB /* NSDate+convenience.h */,
+				68D3C5C81C3F4CC3009D40DB /* NSDate+convenience.m */,
+				68D3C5C91C3F4CC3009D40DB /* NSMutableArray+convenience.h */,
+				68D3C5CA1C3F4CC3009D40DB /* NSMutableArray+convenience.m */,
+				68D3C5CB1C3F4CC3009D40DB /* UIColor+expanded.h */,
+				68D3C5CC1C3F4CC3009D40DB /* UIColor+expanded.m */,
+				68D3C5CD1C3F4CC3009D40DB /* UIView+convenience.h */,
+				68D3C5CE1C3F4CC4009D40DB /* UIView+convenience.m */,
+				68D3C5CF1C3F4CC4009D40DB /* VRGCalendarView.h */,
+				680818241C4282CE009BB160 /* LOGO 2.png */,
+				68D3C5D01C3F4CC4009D40DB /* VRGCalendarView.m */,
+			);
+			name = NewCalender;
+			sourceTree = "<group>";
+		};
 		68EE7D601C34DB9F0006A239 = {
 			isa = PBXGroup;
 			children = (
+				68EE7D9F1C3500A10006A239 /* HomeScreen */,
 				68EE7D6B1C34DB9F0006A239 /* MiMeeting */,
 				68EE7D851C34DB9F0006A239 /* MiMeetingTests */,
 				68EE7D901C34DB9F0006A239 /* MiMeetingUITests */,
@@ -117,6 +194,13 @@
 		68EE7D6C1C34DB9F0006A239 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6808181E1C427687009BB160 /* pa.png */,
+				68D528E41C3815B800A9C794 /* add.png */,
+				68D528DC1C37675F00A9C794 /* doc.png */,
+				68D528DD1C37675F00A9C794 /* pdf.png */,
+				68D528DE1C37675F00A9C794 /* xsl.png */,
+				68573D1D1C36735C00EE91BD /* bluewalley.png */,
+				68573D1E1C36735C00EE91BD /* sky.png */,
 				68EE7D6D1C34DB9F0006A239 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +222,32 @@
 				68EE7D931C34DB9F0006A239 /* Info.plist */,
 			);
 			path = MiMeetingUITests;
+			sourceTree = "<group>";
+		};
+		68EE7D9F1C3500A10006A239 /* HomeScreen */ = {
+			isa = PBXGroup;
+			children = (
+				68D3C5C61C3F4CA2009D40DB /* NewCalender */,
+				68573D101C3658DF00EE91BD /* DateUtil.h */,
+				68573D111C3658DF00EE91BD /* DateUtil.m */,
+				680818221C428123009BB160 /* LOGO.png */,
+				68573D121C3658DF00EE91BD /* DMLazyScrollView.h */,
+				68573D131C3658DF00EE91BD /* DMLazyScrollView.m */,
+				68573D141C3658DF00EE91BD /* SACalendar.h */,
+				68573D151C3658DF00EE91BD /* SACalendar.m */,
+				68573D161C3658DF00EE91BD /* SACalendarCell.h */,
+				68573D171C3658DF00EE91BD /* SACalendarCell.m */,
+				68573D181C3658DF00EE91BD /* SACalendarConstants.h */,
+				68D528D91C37591700A9C794 /* WTagList.h */,
+				68D528DA1C37591700A9C794 /* WTagList.m */,
+				68EE7DA01C3500DB0006A239 /* Hy_HomeScreen_ViewController.h */,
+				68EE7DA11C3500DB0006A239 /* Hy_HomeScreen_ViewController.m */,
+				6890408D1C36AF3D00C9947A /* Participent_AViewController.h */,
+				6890408E1C36AF3D00C9947A /* Participent_AViewController.m */,
+				68D528E61C38B93800A9C794 /* ShowDetail_ViewController.h */,
+				68D528E71C38B93800A9C794 /* ShowDetail_ViewController.m */,
+			);
+			name = HomeScreen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +353,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				680818231C428123009BB160 /* LOGO.png in Resources */,
+				68D528DF1C37675F00A9C794 /* doc.png in Resources */,
+				68D528E11C37675F00A9C794 /* xsl.png in Resources */,
+				6808181F1C427688009BB160 /* pa.png in Resources */,
+				68D528E01C37675F00A9C794 /* pdf.png in Resources */,
+				68D528E51C3815B800A9C794 /* add.png in Resources */,
 				68EE7D7C1C34DB9F0006A239 /* LaunchScreen.storyboard in Resources */,
+				68573D201C36735C00EE91BD /* sky.png in Resources */,
 				68EE7D791C34DB9F0006A239 /* Assets.xcassets in Resources */,
 				68EE7D771C34DB9F0006A239 /* Main.storyboard in Resources */,
+				68573D1F1C36735C00EE91BD /* bluewalley.png in Resources */,
+				680818251C4282CE009BB160 /* LOGO 2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,8 +389,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68D3C5D51C3F4CC4009D40DB /* VRGCalendarView.m in Sources */,
+				68D528DB1C37591700A9C794 /* WTagList.m in Sources */,
+				68EE7DA21C3500DB0006A239 /* Hy_HomeScreen_ViewController.m in Sources */,
+				68D3C5D11C3F4CC4009D40DB /* NSDate+convenience.m in Sources */,
+				68573D1C1C3658DF00EE91BD /* SACalendarCell.m in Sources */,
+				68573D191C3658DF00EE91BD /* DateUtil.m in Sources */,
+				68D528E81C38B93800A9C794 /* ShowDetail_ViewController.m in Sources */,
 				68EE7D741C34DB9F0006A239 /* ViewController.m in Sources */,
+				68D3C5D41C3F4CC4009D40DB /* UIView+convenience.m in Sources */,
 				68EE7D711C34DB9F0006A239 /* AppDelegate.m in Sources */,
+				68573D1A1C3658DF00EE91BD /* DMLazyScrollView.m in Sources */,
+				68573D1B1C3658DF00EE91BD /* SACalendar.m in Sources */,
+				68D3C5D31C3F4CC4009D40DB /* UIColor+expanded.m in Sources */,
+				68D3C5D21C3F4CC4009D40DB /* NSMutableArray+convenience.m in Sources */,
+				6890408F1C36AF3D00C9947A /* Participent_AViewController.m in Sources */,
 				68EE7D6E1C34DB9F0006A239 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -498,6 +630,7 @@
 				68EE7D981C34DBA00006A239 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68EE7D991C34DBA00006A239 /* Build configuration list for PBXNativeTarget "MiMeetingTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +639,7 @@
 				68EE7D9B1C34DBA00006A239 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68EE7D9C1C34DBA00006A239 /* Build configuration list for PBXNativeTarget "MiMeetingUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +648,7 @@
 				68EE7D9E1C34DBA00006A239 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
